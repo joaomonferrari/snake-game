@@ -17,7 +17,7 @@ Caso perca não se preocupe, o jogo irá recomeçar automaticamente.
 - `1)`: dar ao usuário a capacidade de controlar a cobrinha
 - `2)`: se divertir
 
-## 🍷🗿 Explicação do código:
+## 🍷 Explicação do código:
 
 ### Adicionando o formato da cobrinha e da comida:
 
@@ -39,4 +39,4 @@ Caso perca não se preocupe, o jogo irá recomeçar automaticamente.
 
 ## 🔧 Feito por:
 
-João Monferrari
+[João Monferrari](https://www.linkedin.com/in/jo%C3%A3o-monferrari-b278b2223/)
